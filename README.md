@@ -1,7 +1,3 @@
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdnanTuarita26&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AdnanTuarita26&layout=compact&theme=tokyonight)
-
 ![Visitor Count](https://komarev.com/ghpvc/?username=AdnanTuarita26&color=blue&style=flat-square)
 
 ## Hi there 👋
